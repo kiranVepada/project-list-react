@@ -1,0 +1,23 @@
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #99ccff;
+    width: 100vw;
+    position: fixed;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+}
+.linkedin-img{
+    width: 50px;
+}
+.gitHub-img{
+    width: 60px;
+}
